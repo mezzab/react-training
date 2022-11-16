@@ -1,0 +1,29 @@
+.container-inner {
+  display: flex;
+  flex-direction: column;
+  background: rgba(166, 200, 111, 0.5);
+  padding: 1rem 0 0;
+  border-radius: 1rem;
+  margin: 0 0 1rem;
+}
+
+.inner {
+  display: flex;
+  flex-direction: column;
+  background: rgba(166, 200, 111);
+  padding: 1rem;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+.item.name {
+  color: brown;
+}
+
+.warn {
+  color: red;
+}
+
+h3 {
+  padding: 0 1rem;
+}

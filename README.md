@@ -32,13 +32,15 @@ You can check the records and slices from this training in [this folder.](https:
 - Typescript
   - typing a class component
   - typing a functional component
+  - useReducer example
+  - generic example
 - Styles
   - inline styles
-  - using *.css
-  - classname lib
-### Training Session 5
+  - using css
+  - using modules
+  - styledComponent lib
+  ### Training Session 5
 - Unit testing with jest + RTL
-- Storybook basic example
 - Cypress
 
 
