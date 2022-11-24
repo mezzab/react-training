@@ -39,7 +39,7 @@ You can check the records and slices from this training in [this folder.](https:
   - using css
   - using modules
   - styledComponent lib
-  ### Training Session 5
+### Training Session 5
 - Unit testing with jest + RTL
 - Cypress
 
